@@ -71,6 +71,7 @@ For additional bot examples see [`examples`](https://github.com/telegraf/telegra
 | [BibleQuizzleBot](https://github.com/Samleo8/BibleQuizzle) | Bible quiz game - group fun similar to Quizzarium |
 | [BitcoinDogBot](https://github.com/jibital/bitcoin-dog-bot) | Bitcoin prices, Technical analysis and Alerts! |
 | [BooksAndBot](https://github.com/dmtrbrl/BooksAndBot) | An inline bot that allows you to search for books and share them in a conversation. Powered by Goodreads  |
+| [GoodReaderBot](https://github.com/jhenriquez/GoodReaderBot) | A telegram bot to search and share books from Goodreads. |
 | [CaptchaOnlyBot](https://github.com/Piterden/captcha_only_bot) | Configurable question \w set of buttons on a new group user |
 | [ChannelHashBot](https://github.com/YouTwitFace/ChannelHashBot) | Keep track of hashtags that are sent in your group by forwarding them to a channel |
 | [ChatAdmin](https://github.com/Khuzha/chatAdmin) | Helps to administer the chats  |
